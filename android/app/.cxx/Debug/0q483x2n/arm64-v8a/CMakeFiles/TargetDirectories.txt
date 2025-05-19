@@ -1,0 +1,2 @@
+S:/footware_client/android/app/.cxx/Debug/0q483x2n/arm64-v8a/CMakeFiles/edit_cache.dir
+S:/footware_client/android/app/.cxx/Debug/0q483x2n/arm64-v8a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+S:/footware_client/android/app/.cxx/Debug/0q483x2n/armeabi-v7a/CMakeFiles/edit_cache.dir
+S:/footware_client/android/app/.cxx/Debug/0q483x2n/armeabi-v7a/CMakeFiles/rebuild_cache.dir

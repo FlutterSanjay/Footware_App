@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "79590426055",
+    "project_id": "footware-app-7d586",
+    "storage_bucket": "footware-app-7d586.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79590426055:android:2473b3d4abede352d145e2",
+        "android_client_info": {
+          "package_name": "com.footware.footer_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6UsSM49DmQp8QU7z_sEXNv--0zkDEsCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79590426055:android:420b5a15b1d68469d145e2",
+        "android_client_info": {
+          "package_name": "com.footware_client.footware_client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6UsSM49DmQp8QU7z_sEXNv--0zkDEsCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
